@@ -1,0 +1,9 @@
+{
+    "name": "ksfraser/ksf_leave_ui",
+    "description": "Leave_UI",
+    "type": "project",
+    "require": {
+        "ksfraser/database": "*",
+        "ksfraser/ksf_modulesdao": "*"
+    }
+}
